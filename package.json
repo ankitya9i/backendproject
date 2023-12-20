@@ -4,8 +4,7 @@
   "description": "this is the advance level of backend",
   "main": "index.js",
   "scripts": {
-    
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
